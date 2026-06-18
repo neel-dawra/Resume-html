@@ -10,7 +10,6 @@ body{
     line-height:1.6;
 }
 
-/* MAIN CONTAINER */
 
 .container{
     width:90%;
@@ -22,7 +21,6 @@ body{
     overflow:hidden;
 }
 
-/* SIDEBAR */
 
 .sidebar{
     width:30%;
@@ -83,7 +81,6 @@ body{
     margin-top:10px;
 }
 
-/* CONTENT */
 
 .content{
     width:70%;
@@ -157,21 +154,18 @@ section h2{
     line-height:1.6;
 }
 
-/* TEXT FIXES */
 
 h1,h2,h3,h4,p,li{
     overflow-wrap:break-word;
     word-wrap:break-word;
 }
 
-/* IMAGE FIX */
 
 img{
     max-width:100%;
     height:auto;
 }
 
-/* RESPONSIVE DESIGN */
 
 @media(max-width:992px){
 
